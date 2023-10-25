@@ -29,5 +29,3 @@ If you encounter any issues while using SA-MP Android, please follow these steps
 - Optionally, include a screenshot or video link to provide visual context.
 
 Your contributions to improving SA-MP Android are highly appreciated! Thank you for your support.
-
-Feel free to modify the README based on your specific project requirements.
