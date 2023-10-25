@@ -1,5 +1,3 @@
-Claro, vou ajudá-lo a melhorar a README. Aqui está uma versão mais aprimorada:
-
 # SA-MP Android
 
 This repository is dedicated to reporting [issues](https://github.com/SAMP-Android/SAMP-Android/issues/) and providing the [latest updates](https://github.com/SAMP-Android/SAMP-Android/releases/latest/) for SA-MP Android.
